@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://freshanorganic.github.io/index.html</loc>
-    <lastmod>2019-02-03</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://freshanorganic.github.io/phone/index.html"/>
     <image:image>
       <image:loc>http://freshanorganic.github.io/images/header1.jpg</image:loc>
     </image:image>
@@ -17,9 +18,10 @@
   </url>
   <url>
     <loc>http://freshanorganic.github.io/desayunos.html</loc>
-    <lastmod>2019-02-03</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://freshanorganic.github.io/phone/desayunos.html"/>
     <image:image>
       <image:loc>http://freshanorganic.github.io/images/header2.jpg</image:loc>
     </image:image>
@@ -32,9 +34,10 @@
   </url>
   <url>
     <loc>http://freshanorganic.github.io/almuerzos.html</loc>
-    <lastmod>2019-02-03</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://freshanorganic.github.io/phone/almuerzos.html"/>
     <image:image>
       <image:loc>http://freshanorganic.github.io/images/header-lunch-1.jpg</image:loc>
     </image:image>
@@ -56,9 +59,10 @@
   </url>
   <url>
     <loc>http://freshanorganic.github.io/refrigerios.html</loc>
-    <lastmod>2019-02-03</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://freshanorganic.github.io/phone/refrigerios.html"/>
     <image:image>
       <image:loc>http://freshanorganic.github.io/images/header-snack-1.jpg</image:loc>
     </image:image>
@@ -89,9 +93,10 @@
   </url>
   <url>
     <loc>http://freshanorganic.github.io/panaderia.html</loc>
-    <lastmod>2019-02-03</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://freshanorganic.github.io/phone/panaderia.html"/>
     <image:image>
       <image:loc>http://freshanorganic.github.io/images/header-panes-1.jpg</image:loc>
     </image:image>
@@ -110,9 +115,10 @@
   </url>
   <url>
     <loc>http://freshanorganic.github.io/bebidas.html</loc>
-    <lastmod>2019-02-03</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://freshanorganic.github.io/phone/bebidas.html"/>
     <image:image>
       <image:loc>http://freshanorganic.github.io/images/header-drink-1.jpg</image:loc>
     </image:image>
@@ -128,9 +134,10 @@
   </url>
   <url>
     <loc>http://freshanorganic.github.io/catering.html</loc>
-    <lastmod>2019-02-03</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://freshanorganic.github.io/phone/catering.html"/>
     <image:image>
       <image:loc>http://freshanorganic.github.io/images/header-evento-1.jpg</image:loc>
     </image:image>

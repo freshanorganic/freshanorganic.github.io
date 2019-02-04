@@ -1,183 +1,257 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="freshanorganic.github.io" resolutions="1x" timestamp="1549206036715">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="freshanorganic.github.io" resolutions="1x" timestamp="1549303392127">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="302358572" ref="phone>index:phone>refrigerios:phone>almuerzos:phone>panaderia:phone>bebidas:phone>catering:phone>desayunos"/>
+      <file name="index.css" crc="4097081433" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="213593076" ref="phone>index"/>
+      <file name="refrigerios.css" crc="4263547791" ref="phone>refrigerios"/>
+      <file name="almuerzos.css" crc="4192648392" ref="phone>almuerzos"/>
+      <file name="panaderia.css" crc="4206376119" ref="phone>panaderia"/>
+      <file name="bebidas.css" crc="281078811" ref="phone>bebidas"/>
+      <file name="catering.css" crc="423495863" ref="phone>catering"/>
+      <file name="desayunos.css" crc="438742660" ref="phone>desayunos"/>
+    </folder>
+    <file name="index.html" crc="230259350" seo="true" mt="1549303386310" redirect="true"/>
+    <file name="desayunos.html" crc="211309438" seo="true" mt="1549303386310" redirect="true"/>
+    <file name="almuerzos.html" crc="3884323613" seo="true" mt="1549303386310" redirect="true"/>
+    <file name="refrigerios.html" crc="3793193037" seo="true" mt="1549303386310" redirect="true"/>
+    <file name="panaderia.html" crc="184228905" seo="true" mt="1549303386310" redirect="true"/>
+    <file name="bebidas.html" crc="294931323" seo="true" mt="1549303386310" redirect="true"/>
+    <file name="catering.html" crc="3962522038" seo="true" mt="1549303386310" redirect="true"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="almuerzos.css" crc="135756659" ref="almuerzos"/>
-    <file name="iefonts_almuerzos.css" crc="3979683824" ref="almuerzos"/>
-    <file name="desayunos.css" crc="4009613505" ref="desayunos"/>
-    <file name="iefonts_desayunos.css" crc="3921044552" ref="desayunos"/>
-    <file name="bebidas.css" crc="164219963" ref="bebidas"/>
-    <file name="iefonts_bebidas.css" crc="465157399" ref="bebidas"/>
-    <file name="catering.css" crc="351028511" ref="catering"/>
-    <file name="iefonts_catering.css" crc="4003576607" ref="catering"/>
-    <file name="index.css" crc="3942455545" ref="index"/>
-    <file name="iefonts_index.css" crc="406981546" ref="index"/>
-    <file name="refrigerios.css" crc="4241664631" ref="refrigerios"/>
-    <file name="iefonts_refrigerios.css" crc="515491237" ref="refrigerios"/>
-    <file name="panaderia.css" crc="3790740038" ref="panaderia"/>
-    <file name="iefonts_panaderia.css" crc="345817933" ref="panaderia"/>
+    <file name="site_global.css" crc="21059305"/>
+    <file name="almuerzos.css" crc="432651632" ref="almuerzos"/>
+    <file name="iefonts_almuerzos.css" crc="3885428977" ref="almuerzos"/>
+    <file name="desayunos.css" crc="299769433" ref="desayunos"/>
+    <file name="iefonts_desayunos.css" crc="43830966" ref="desayunos"/>
+    <file name="bebidas.css" crc="4038269357" ref="bebidas"/>
+    <file name="iefonts_bebidas.css" crc="3855340020" ref="bebidas"/>
+    <file name="catering.css" crc="117863442" ref="catering"/>
+    <file name="iefonts_catering.css" crc="260048955" ref="catering"/>
+    <file name="index.css" crc="218200745" ref="index"/>
+    <file name="iefonts_index.css" crc="335388597" ref="index"/>
+    <file name="refrigerios.css" crc="4237930998" ref="refrigerios"/>
+    <file name="iefonts_refrigerios.css" crc="4154285319" ref="refrigerios"/>
+    <file name="panaderia.css" crc="3784724145" ref="panaderia"/>
+    <file name="iefonts_panaderia.css" crc="4108738807" ref="panaderia"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="museutils.js" crc="340535759" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="whatinput.js" crc="86476730" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="museconfig.js" crc="310584261" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="webpro.js" crc="4059564322" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="form_check.php" crc="4020933626" ref="index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index"/>
-    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="museutils.js" crc="340535759" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="whatinput.js" crc="86476730" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="museconfig.js" crc="310584261" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="webpro.js" crc="4059564322" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
     <file name="form-u447.php" crc="31206694" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
+    <file name="require.js" crc="7928878" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="form-u3902.php" crc="304992422" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering:index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
   </folder>
   <folder name="images">
-    <file name="header1.jpg" crc="3833033396" seo="true" ref="index">
+    <file name="header1.jpg" crc="3833033396" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="header2.jpg" crc="287945113" seo="true" ref="index:desayunos">
+    <file name="blank.gif" crc="4208392903" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="header2.jpg" crc="287945113" seo="true" ref="index:desayunos:phone>index:phone>desayunos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="desayunos" alt=""/>
+      <caption webpage="desayunos" alt=""/>
+    </file>
+    <file name="header3.jpg" crc="4046028385" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index:phone>desayunos:phone>almuerzos:phone>refrigerios:phone>panaderia:phone>bebidas:phone>catering"/>
+    <file name="servicio4.jpg" crc="164440801" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio5.jpg" crc="4203735265" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio6.jpg" crc="4176673975" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio1.jpg" crc="505713510" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio2.jpg" crc="421451814" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio3.jpg" crc="404278268" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-tel.jpg" crc="41545389" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-mail.jpg" crc="160536002" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-lkd.png" crc="3790648311" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-des-1.jpg" crc="78036924" seo="true" ref="desayunos:phone>desayunos">
+      <caption webpage="desayunos" alt=""/>
+      <caption webpage="desayunos" alt=""/>
+    </file>
+    <file name="header-des-2.jpg" crc="434987957" seo="true" ref="desayunos:phone>desayunos">
+      <caption webpage="desayunos" alt=""/>
+      <caption webpage="desayunos" alt=""/>
+    </file>
+    <file name="header-lunch-1.jpg" crc="3786427664" seo="true" ref="almuerzos:phone>almuerzos">
+      <caption webpage="almuerzos" alt=""/>
+      <caption webpage="almuerzos" alt=""/>
+    </file>
+    <file name="header-lunch-2.jpg" crc="3825845160" seo="true" ref="almuerzos:phone>almuerzos">
+      <caption webpage="almuerzos" alt=""/>
+      <caption webpage="almuerzos" alt=""/>
+    </file>
+    <file name="header-lunch-3.jpg" crc="252971829" seo="true" ref="almuerzos:phone>almuerzos">
+      <caption webpage="almuerzos" alt=""/>
+      <caption webpage="almuerzos" alt=""/>
+    </file>
+    <file name="header-lunch-4.jpg" crc="4090783301" seo="true" ref="almuerzos:phone>almuerzos">
+      <caption webpage="almuerzos" alt=""/>
+      <caption webpage="almuerzos" alt=""/>
+    </file>
+    <file name="header-lunch-5.jpg" crc="4151648106" seo="true" ref="almuerzos:phone>almuerzos">
+      <caption webpage="almuerzos" alt=""/>
+      <caption webpage="almuerzos" alt=""/>
+    </file>
+    <file name="header-lunch-6.jpg" crc="3803098677" seo="true" ref="almuerzos:phone>almuerzos">
+      <caption webpage="almuerzos" alt=""/>
+      <caption webpage="almuerzos" alt=""/>
+    </file>
+    <file name="header-snack-1.jpg" crc="3803098677" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-snack-2.jpg" crc="3825845160" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-snack-3.jpg" crc="435184930" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-snack-4.jpg" crc="524926506" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-snack-5.jpg" crc="3933520706" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-snack-6.jpg" crc="4267336799" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-snack-7.jpg" crc="3903131797" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-snack-9.jpg" crc="4223192876" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-snack-10.jpg" crc="259770055" seo="true" ref="refrigerios:phone>refrigerios">
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+    </file>
+    <file name="header-panes-1.jpg" crc="259770055" seo="true" ref="panaderia:phone>panaderia">
+      <caption webpage="panaderia" alt=""/>
+      <caption webpage="panaderia" alt=""/>
+    </file>
+    <file name="header-panes-2.jpg" crc="54122993" seo="true" ref="panaderia:phone>panaderia">
+      <caption webpage="panaderia" alt=""/>
+      <caption webpage="panaderia" alt=""/>
+    </file>
+    <file name="header-panes-3.jpg" crc="524369679" seo="true" ref="panaderia:phone>panaderia">
+      <caption webpage="panaderia" alt=""/>
+      <caption webpage="panaderia" alt=""/>
+    </file>
+    <file name="header-panes-4.jpg" crc="3967561507" seo="true" ref="panaderia:phone>panaderia">
+      <caption webpage="panaderia" alt=""/>
+      <caption webpage="panaderia" alt=""/>
+    </file>
+    <file name="header-panes-5.jpg" crc="4135135269" seo="true" ref="panaderia:phone>panaderia">
+      <caption webpage="panaderia" alt=""/>
+      <caption webpage="panaderia" alt=""/>
+    </file>
+    <file name="header-drink-1.jpg" crc="4059515938" seo="true" ref="bebidas:phone>bebidas">
+      <caption webpage="bebidas" alt=""/>
+      <caption webpage="bebidas" alt=""/>
+    </file>
+    <file name="header-drink-2.jpg" crc="3764917503" seo="true" ref="bebidas:phone>bebidas">
+      <caption webpage="bebidas" alt=""/>
+      <caption webpage="bebidas" alt=""/>
+    </file>
+    <file name="header-drink-3.jpg" crc="4250472585" seo="true" ref="bebidas:phone>bebidas">
+      <caption webpage="bebidas" alt=""/>
+      <caption webpage="bebidas" alt=""/>
+    </file>
+    <file name="header-drink-4.jpg" crc="3826805584" seo="true" ref="bebidas:phone>bebidas">
+      <caption webpage="bebidas" alt=""/>
+      <caption webpage="bebidas" alt=""/>
+    </file>
+    <file name="header-evento-1.jpg" crc="3978770352" seo="true" ref="catering:phone>catering">
+      <caption webpage="catering" alt=""/>
+      <caption webpage="catering" alt=""/>
+    </file>
+    <file name="header-evento-2.jpg" crc="439466060" seo="true" ref="catering:phone>catering">
+      <caption webpage="catering" alt=""/>
+      <caption webpage="catering" alt=""/>
+    </file>
+    <file name="header-evento-3.jpg" crc="4214957796" seo="true" ref="catering:phone>catering">
+      <caption webpage="catering" alt=""/>
+      <caption webpage="catering" alt=""/>
+    </file>
+    <file name="header-evento-4.jpg" crc="3876028499" seo="true" ref="catering:phone>catering">
+      <caption webpage="catering" alt=""/>
+      <caption webpage="catering" alt=""/>
+    </file>
+    <file name="logo.png" crc="221016665" ref="phone>index:index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering">
+      <caption webpage="almuerzos" alt=""/>
+      <caption webpage="catering" alt=""/>
+      <caption webpage="refrigerios" alt=""/>
+      <caption webpage="panaderia" alt=""/>
+      <caption webpage="bebidas" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="desayunos" alt=""/>
     </file>
-    <file name="header3.jpg" crc="4046028385" seo="true" ref="index">
+    <file name="icon-fb.png" crc="12832688" ref="phone>index:index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
-    <file name="logo.jpg" crc="222124046" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering">
-      <caption webpage="almuerzos" alt=""/>
-      <caption webpage="catering" alt=""/>
-      <caption webpage="refrigerios" alt=""/>
-      <caption webpage="panaderia" alt=""/>
-      <caption webpage="bebidas" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="desayunos" alt=""/>
-    </file>
-    <file name="servicio4.jpg" crc="164440801" ref="index">
+    <file name="icon-ig.png" crc="3949627970" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="servicio5.jpg" crc="4203735265" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="servicio6.jpg" crc="4176673975" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="servicio1.jpg" crc="505713510" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="servicio2.jpg" crc="421451814" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="servicio3.jpg" crc="404278268" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-tel.jpg" crc="41545389" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-mail.jpg" crc="160536002" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-lkd.png" crc="3790648311" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="header-des-1.jpg" crc="78036924" seo="true" ref="desayunos">
-      <caption webpage="desayunos" alt=""/>
-    </file>
-    <file name="header-des-2.jpg" crc="434987957" seo="true" ref="desayunos">
-      <caption webpage="desayunos" alt=""/>
-    </file>
-    <file name="header-lunch-1.jpg" crc="3786427664" seo="true" ref="almuerzos">
-      <caption webpage="almuerzos" alt=""/>
-    </file>
-    <file name="header-lunch-2.jpg" crc="3825845160" seo="true" ref="almuerzos">
-      <caption webpage="almuerzos" alt=""/>
-    </file>
-    <file name="header-lunch-3.jpg" crc="252971829" seo="true" ref="almuerzos">
-      <caption webpage="almuerzos" alt=""/>
-    </file>
-    <file name="header-lunch-4.jpg" crc="4090783301" seo="true" ref="almuerzos">
-      <caption webpage="almuerzos" alt=""/>
-    </file>
-    <file name="header-lunch-5.jpg" crc="4151648106" seo="true" ref="almuerzos">
-      <caption webpage="almuerzos" alt=""/>
-    </file>
-    <file name="header-lunch-6.jpg" crc="3803098677" seo="true" ref="almuerzos">
-      <caption webpage="almuerzos" alt=""/>
-    </file>
-    <file name="header-snack-1.jpg" crc="3803098677" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-snack-2.jpg" crc="3825845160" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-snack-3.jpg" crc="435184930" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-snack-4.jpg" crc="524926506" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-snack-5.jpg" crc="3933520706" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-snack-6.jpg" crc="4267336799" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-snack-7.jpg" crc="3903131797" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-snack-9.jpg" crc="4223192876" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-snack-10.jpg" crc="259770055" seo="true" ref="refrigerios">
-      <caption webpage="refrigerios" alt=""/>
-    </file>
-    <file name="header-panes-1.jpg" crc="259770055" seo="true" ref="panaderia">
-      <caption webpage="panaderia" alt=""/>
-    </file>
-    <file name="header-panes-2.jpg" crc="54122993" seo="true" ref="panaderia">
-      <caption webpage="panaderia" alt=""/>
-    </file>
-    <file name="header-panes-3.jpg" crc="524369679" seo="true" ref="panaderia">
-      <caption webpage="panaderia" alt=""/>
-    </file>
-    <file name="header-panes-4.jpg" crc="3967561507" seo="true" ref="panaderia">
-      <caption webpage="panaderia" alt=""/>
-    </file>
-    <file name="header-panes-5.jpg" crc="4135135269" seo="true" ref="panaderia">
-      <caption webpage="panaderia" alt=""/>
-    </file>
-    <file name="header-drink-1.jpg" crc="4059515938" seo="true" ref="bebidas">
-      <caption webpage="bebidas" alt=""/>
-    </file>
-    <file name="header-drink-2.jpg" crc="3764917503" seo="true" ref="bebidas">
-      <caption webpage="bebidas" alt=""/>
-    </file>
-    <file name="header-drink-3.jpg" crc="4250472585" seo="true" ref="bebidas">
-      <caption webpage="bebidas" alt=""/>
-    </file>
-    <file name="header-drink-4.jpg" crc="3826805584" seo="true" ref="bebidas">
-      <caption webpage="bebidas" alt=""/>
-    </file>
-    <file name="header-evento-1.jpg" crc="3978770352" seo="true" ref="catering">
-      <caption webpage="catering" alt=""/>
-    </file>
-    <file name="header-evento-2.jpg" crc="439466060" seo="true" ref="catering">
-      <caption webpage="catering" alt=""/>
-    </file>
-    <file name="header-evento-3.jpg" crc="4214957796" seo="true" ref="catering">
-      <caption webpage="catering" alt=""/>
-    </file>
-    <file name="header-evento-4.jpg" crc="3876028499" seo="true" ref="catering">
-      <caption webpage="catering" alt=""/>
-    </file>
+    <file name="icon-ig-u525-fr.png" crc="4262000362" ref="index:desayunos:almuerzos:refrigerios:panaderia:bebidas:catering"/>
   </folder>
-  <file name="index.html" crc="183696651" seo="true" mt="1549203305136" redirect="true"/>
-  <file name="desayunos.html" crc="202209254" seo="true" mt="1549202035408" redirect="true"/>
-  <file name="almuerzos.html" crc="4166483370" seo="true" mt="1549205738338" redirect="true"/>
-  <file name="refrigerios.html" crc="3831142155" seo="true" mt="1549205792073" redirect="true"/>
-  <file name="panaderia.html" crc="4229284847" seo="true" mt="1549205822027" redirect="true"/>
-  <file name="bebidas.html" crc="108830908" seo="true" mt="1549205840165" redirect="true"/>
-  <file name="catering.html" crc="350222697" seo="true" mt="1549205858569" redirect="true"/>
+  <file name="index.html" crc="3994589270" seo="true" mt="1549303386309" redirect="true"/>
+  <file name="desayunos.html" crc="3963487911" seo="true" mt="1549303386302" redirect="true"/>
+  <file name="almuerzos.html" crc="534970316" seo="true" mt="1549303386304" redirect="true"/>
+  <file name="refrigerios.html" crc="532027616" seo="true" mt="1549303386312" redirect="true"/>
+  <file name="panaderia.html" crc="4243750413" seo="true" mt="1549303386308" redirect="true"/>
+  <file name="bebidas.html" crc="4262933265" seo="true" mt="1549303386300" redirect="true"/>
+  <file name="catering.html" crc="531229389" seo="true" mt="1549303386306" redirect="true"/>
 </manifest>
